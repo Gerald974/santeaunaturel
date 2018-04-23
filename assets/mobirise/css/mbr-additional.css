@@ -1455,6 +1455,7 @@ body {
 }
 .cid-qQ1r6fsxDv .form-text {
   color: #767676;
+  text-align: center;
 }
 @media (max-width: 767px) {
   .cid-qQ1r6fsxDv .content {
@@ -1558,6 +1559,12 @@ body {
   .cid-qQ1r6fsxDv .mbr-text {
     text-align: center !important;
   }
+}
+.cid-qQ1r6fsxDv .mbr-links-column {
+  text-align: center;
+}
+.cid-qQ1r6fsxDv .foot-title {
+  text-align: center;
 }
 .cid-qQ1qEN3L8j {
   padding-top: 60px;
